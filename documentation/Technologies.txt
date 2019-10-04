@@ -1,0 +1,8 @@
+﻿Fronted: HTML и CSS
+Backend: Django и Python
+
+Web-service Будет разрабываться с помощью таких языков разметки и программирования как:
+1) HTML (HyperText Markup Language — «язык гипертекстовой разметки»)
+2) CSS (Cascading Style Sheets — каскадные таблицы стилей)
+3) Django (бесплатный и свободный фреймворк)
+4) Python (интерпретируемый язык программирования)
